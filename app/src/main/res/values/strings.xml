@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pune Tour</string>
+    <string name="category_topspots">TOP SPOTS</string>
+    <string name="category_restaurants">RESTAURANTS</string>
+    <string name="category_religious">RELIGIOUS</string>
+    <string name="category_shopping">SHOPPING</string>
+</resources>
